@@ -1,0 +1,2 @@
+admin;password
+dawud;& C:/Users/dawud/AppData/Local/Programs/Python/Python38/python.exe "c:/Users/dawud/OneDrive/Documents/PYTHON/T17 programs/task 17/task_manager.py"
